@@ -1,0 +1,3 @@
+fastapi
+faker
+uvicorn
