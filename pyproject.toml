@@ -1,0 +1,14 @@
+[project]
+name = "api-docker-terraform-api-code"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "faker>=37.1.0",
+    "fastapi>=0.115.12",
+    "pydantic>=2.11.4",
+    "python-dotenv>=1.1.0",
+    "requests>=2.32.3",
+    "uvicorn>=0.34.2",
+]
